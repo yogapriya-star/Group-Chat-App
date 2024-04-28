@@ -18,17 +18,17 @@ This is a simple chat application developed using the MERN (Express.js, React.js
    git clone https://github.com/your-username/chat-application.git
 
 2. Install dependencies for frontend:
-```bash
-cd chat-application
-cd frontend
-npm update
-npm start
+   ```bash
+   cd chat-application
+   cd frontend
+   npm update
+   npm start
 
 3. Install dependencies for backend:
-```bash
-cd chat-application
-cd backend
-npx node index.js
+   ```bash
+   cd chat-application
+   cd backend
+   npx node index.js
    
 ## Features
 
