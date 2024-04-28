@@ -1,0 +1,47 @@
+Download Nodejs from any browser
+
+Backend ChatApp -CMD =>
+	Open the backend folder in visual studio code
+		- npm init -y
+		- npm i express
+		- npm i socket.io
+		- npm i nodemon   // It automatically restarting the node application when file changes
+
+To config nodemon at backend
+		- backend folder - package.json file
+			 "scripts": {
+    				"start": "nodemon index.js",
+  			},
+		//Add the above line in package.json file
+
+  To run the backend
+      npx node index.js
+
+Frontend ChatApp - CMD =>
+	Open the frontend folder inn visual studio code
+		- npx create-react-app .
+		- npm install react-router-dom
+		- npm i socket.io-client
+		- npm install sweetalert2
+
+	To use fontawesome use these command
+			= npm install --save @fortawesome/react-fontawesome
+			= npm install --save @fortawesome/free-solid-svg-icons
+			= npm install --save @fortawesome/fontawesome-svg-core
+
+	To use tailwind-CSS in frontend folder
+		- npm install -D tailwindcss
+		- npx tailwindcss init
+
+		- Add the below line in tailwind.config.js file
+			content: [
+    				"./src/**/*.{js,jsx,ts,tsx}",   //Add this line in tailwind.config.js
+  		],
+
+		- Add the below line in index.css
+			@tailwind base;       
+			@tailwind components;
+			@tailwind utilities;
+
+To run the frontend 
+		- npm run start  
