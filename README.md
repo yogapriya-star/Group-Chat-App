@@ -8,6 +8,7 @@ This is a simple chat application developed using the MERN (Express.js, React.js
 - [Getting Started](#getting-started)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
