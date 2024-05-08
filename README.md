@@ -16,7 +16,7 @@ This is a simple chat application developed using the MERN (Express.js, React.js
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chat-application.git
+   git clone https://github.com/yogapriya-star/Group-Chat-App.git
 
 2. Install dependencies for frontend:
    ```bash
