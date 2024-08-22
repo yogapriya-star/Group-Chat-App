@@ -9,6 +9,7 @@ This is a simple chat application developed using the MERN (Express.js, React.js
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
+- [ Live Demo](#live-demo)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -55,6 +56,13 @@ This is a simple chat application developed using the MERN (Express.js, React.js
 
 1. Chat Page:
   - Once enter it to the room, you can exchange messages with the administrator in real-time
+    
+## Live Demo
+
+Check out the live version of the app here:
+
+[Group-Chat Application](https://group-chat-application-slxw.onrender.com)
+
 
 ## Contributing
 Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
